@@ -1,0 +1,15 @@
+{
+    "workHours": "30",
+    "hoursInSeconds": "1",
+    "maxEntrees": "30",
+    "maxMainDishes": "20",
+    "maxDesserts": "15",
+    "initEntreeChefs": "2",
+    "initMainChefs": "2",
+    "initDessertChefs": "1",
+    "initWaitresses": "3",
+    "maxEntreeChefs": "4",
+    "maxMainChefs": "3",
+    "maxDessertChefs": "3",
+    "maxWaitresses": "5"
+}
